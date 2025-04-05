@@ -28,16 +28,4 @@ El desafío busca practicar las estructuras de control (condicionales y bucles) 
 
 ## Uso
 Una vez ejecutado el programa, el sistema te pedirá que selecciones una opción:
-********************************************
-Nombre del cliente: Mafe Vega
-El tipo de cuenta es: Corriente
-Su saldo disponible es: 1599.99$
-
-********************************************
-
-*** Escribe el número de la opción deseada ***
-1 - Consultar saldo 
-2 - Retirar
-3 - Depositar 
-9 - Salir
-
+![Captura de pantalla del programa](Descargas/Captura de pantalla 2025-04-05 063201)
