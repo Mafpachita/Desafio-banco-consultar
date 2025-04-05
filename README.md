@@ -27,5 +27,5 @@ El desafío busca practicar las estructuras de control (condicionales y bucles) 
    javac Desafio.java
 
 ## Uso
-Una vez ejecutado el programa, el sistema te pedirá que selecciones una opción:
-![Captura de pantalla del programa](Descargas/Captura de pantalla 2025-04-05 063201)
+El programa te dará opciones para elegir, y según la que escojas, ejecutará
+
